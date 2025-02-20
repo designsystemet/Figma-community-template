@@ -1,0 +1,151 @@
+[
+  {
+    "id": "8b2c8cc86611a34b135cb22948666779361fd729",
+    "name": "medium",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/modes/size/medium": "source",
+      "primitives/modes/size/global": "enabled",
+      "primitives/modes/typography/size/medium": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:36248:20757",
+    "$figmaModeId": "41630:1",
+    "group": "Size"
+  },
+  {
+    "id": "d49b9eebeb48a4f165a74b7261733d0a73370f0e",
+    "name": "large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/modes/size/large": "source",
+      "primitives/modes/size/global": "enabled",
+      "primitives/modes/typography/size/large": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:36248:20757",
+    "$figmaModeId": "41630:2",
+    "group": "Size"
+  },
+  {
+    "id": "fb11567729c298ca37c9da4e3a27716a23480824",
+    "name": "small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/modes/size/small": "source",
+      "primitives/modes/size/global": "enabled",
+      "primitives/modes/typography/size/small": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:36248:20757",
+    "$figmaModeId": "41630:3",
+    "group": "Size"
+  },
+  {
+    "id": "bdffb54560314ee6deca813514e3708c61fc0035",
+    "$figmaCollectionId": "VariableCollectionId:36528:61712",
+    "$figmaModeId": "40960:6",
+    "name": "etat1",
+    "selectedTokenSets": {
+      "themes/etat1": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "b9322ae8dd2f199c65a017411cca2383fbea7cc1",
+    "$figmaCollectionId": "VariableCollectionId:36528:61712",
+    "$figmaModeId": "40960:7",
+    "name": "etat2",
+    "selectedTokenSets": {
+      "themes/etat2": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "368d753fcac4455f289500eaa42e70dc0a03522f",
+    "$figmaCollectionId": "VariableCollectionId:36248:20769",
+    "$figmaModeId": "36248:2",
+    "name": "Primary",
+    "selectedTokenSets": {
+      "primitives/modes/typography/primary/etat1": "enabled",
+      "primitives/modes/typography/primary/etat2": "enabled"
+    },
+    "group": "Typography"
+  },
+  {
+    "id": "264b8bd1d40b364e1ea3acf09e49795ddd4c513c",
+    "$figmaCollectionId": "VariableCollectionId:36248:20769",
+    "$figmaModeId": "36248:3",
+    "name": "Secondary",
+    "selectedTokenSets": {
+      "primitives/modes/typography/secondary/etat1": "enabled",
+      "primitives/modes/typography/secondary/etat2": "enabled"
+    },
+    "group": "Typography"
+  },
+  {
+    "name": "Dark",
+    "selectedTokenSets": {
+      "primitives/modes/color-scheme/dark/global": "enabled",
+      "primitives/modes/color-scheme/dark/etat1": "enabled",
+      "primitives/modes/color-scheme/dark/etat2": "enabled"
+    },
+    "id": "9ebd8aed52afbffc17e2666e8b4653a53498b257",
+    "$figmaCollectionId": "VariableCollectionId:34811:5472",
+    "$figmaModeId": "34811:1",
+    "group": "Color scheme"
+  },
+  {
+    "name": "Light",
+    "selectedTokenSets": {
+      "primitives/modes/color-scheme/light/global": "enabled",
+      "primitives/modes/color-scheme/light/etat1": "enabled",
+      "primitives/modes/color-scheme/light/etat2": "enabled"
+    },
+    "id": "0daa3ca0b427b9349da7e7dc00101b5668972926",
+    "$figmaCollectionId": "VariableCollectionId:34811:5472",
+    "$figmaModeId": "34811:0",
+    "group": "Color scheme"
+  },
+  {
+    "id": "541629445ef90ad5363f9e88f52a1ccb617e6f84",
+    "name": "Semantic",
+    "selectedTokenSets": {
+      "semantic/style": "enabled",
+      "semantic/color": "enabled",
+      "primitives/globals": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:34811:5976",
+    "$figmaModeId": "34811:5",
+    "group": "Semantic"
+  },
+  {
+    "id": "be588602f7a855dbd3764f0c15a405344cfdd930",
+    "name": "main1",
+    "selectedTokenSets": {
+      "semantic/modes/main-color/main1": "enabled"
+    },
+    "group": "Main color"
+  },
+  {
+    "id": "4db8bfdf710f29968502744a31a35f0e75012f33",
+    "name": "main2",
+    "selectedTokenSets": {
+      "semantic/modes/main-color/main2": "enabled"
+    },
+    "group": "Main color"
+  },
+  {
+    "id": "8fa5895cfad7c46cd3e6c45bc10f05d330fe1c49",
+    "name": "support1",
+    "selectedTokenSets": {
+      "semantic/modes/support-color/support1": "enabled"
+    },
+    "group": "Support color"
+  },
+  {
+    "id": "e985b504005c1afe1d63357ff11cd4cd7f9fad2b",
+    "name": "support2",
+    "selectedTokenSets": {
+      "semantic/modes/support-color/support2": "enabled"
+    },
+    "group": "Support color"
+  }
+]
