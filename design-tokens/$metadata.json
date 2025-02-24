@@ -21,10 +21,10 @@
     "themes/etat1",
     "themes/etat2",
     "semantic/color",
-    "semantic/modes/main-color/main1",
-    "semantic/modes/main-color/main2",
-    "semantic/modes/support-color/support1",
-    "semantic/modes/support-color/support2",
+    "semantic/modes/main-color/primary",
+    "semantic/modes/main-color/accent",
+    "semantic/modes/support-color/extra1",
+    "semantic/modes/support-color/extra2",
     "semantic/style"
   ]
 }

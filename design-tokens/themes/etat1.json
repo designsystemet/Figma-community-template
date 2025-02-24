@@ -1,135 +1,135 @@
 {
   "color": {
-    "main1": {
+    "primary": {
       "1": {
         "$type": "color",
-        "$value": "{etat1.main1.1}"
+        "$value": "{etat1.primary.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{etat1.main1.2}"
+        "$value": "{etat1.primary.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{etat1.main1.3}"
+        "$value": "{etat1.primary.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{etat1.main1.4}"
+        "$value": "{etat1.primary.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{etat1.main1.5}"
+        "$value": "{etat1.primary.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{etat1.main1.6}"
+        "$value": "{etat1.primary.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{etat1.main1.7}"
+        "$value": "{etat1.primary.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{etat1.main1.8}"
+        "$value": "{etat1.primary.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{etat1.main1.9}"
+        "$value": "{etat1.primary.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{etat1.main1.10}"
+        "$value": "{etat1.primary.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{etat1.main1.11}"
+        "$value": "{etat1.primary.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{etat1.main1.12}"
+        "$value": "{etat1.primary.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{etat1.main1.13}"
+        "$value": "{etat1.primary.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{etat1.main1.14}"
+        "$value": "{etat1.primary.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{etat1.main1.15}"
+        "$value": "{etat1.primary.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{etat1.main1.16}"
+        "$value": "{etat1.primary.16}"
       }
     },
-    "main2": {
+    "accent": {
       "1": {
         "$type": "color",
-        "$value": "{etat1.main2.1}"
+        "$value": "{etat1.accent.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{etat1.main2.2}"
+        "$value": "{etat1.accent.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{etat1.main2.3}"
+        "$value": "{etat1.accent.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{etat1.main2.4}"
+        "$value": "{etat1.accent.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{etat1.main2.5}"
+        "$value": "{etat1.accent.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{etat1.main2.6}"
+        "$value": "{etat1.accent.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{etat1.main2.7}"
+        "$value": "{etat1.accent.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{etat1.main2.8}"
+        "$value": "{etat1.accent.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{etat1.main2.9}"
+        "$value": "{etat1.accent.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{etat1.main2.10}"
+        "$value": "{etat1.accent.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{etat1.main2.11}"
+        "$value": "{etat1.accent.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{etat1.main2.12}"
+        "$value": "{etat1.accent.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{etat1.main2.13}"
+        "$value": "{etat1.accent.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{etat1.main2.14}"
+        "$value": "{etat1.accent.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{etat1.main2.15}"
+        "$value": "{etat1.accent.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{etat1.main2.16}"
+        "$value": "{etat1.accent.16}"
       }
     },
     "neutral": {
@@ -198,136 +198,136 @@
         "$value": "{etat1.neutral.16}"
       }
     },
-    "support1": {
+    "extra1": {
       "1": {
         "$type": "color",
-        "$value": "{etat1.support1.1}"
+        "$value": "{etat1.extra1.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{etat1.support1.2}"
+        "$value": "{etat1.extra1.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{etat1.support1.3}"
+        "$value": "{etat1.extra1.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{etat1.support1.4}"
+        "$value": "{etat1.extra1.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{etat1.support1.5}"
+        "$value": "{etat1.extra1.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{etat1.support1.6}"
+        "$value": "{etat1.extra1.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{etat1.support1.7}"
+        "$value": "{etat1.extra1.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{etat1.support1.8}"
+        "$value": "{etat1.extra1.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{etat1.support1.9}"
+        "$value": "{etat1.extra1.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{etat1.support1.10}"
+        "$value": "{etat1.extra1.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{etat1.support1.11}"
+        "$value": "{etat1.extra1.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{etat1.support1.12}"
+        "$value": "{etat1.extra1.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{etat1.support1.13}"
+        "$value": "{etat1.extra1.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{etat1.support1.14}"
+        "$value": "{etat1.extra1.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{etat1.support1.15}"
+        "$value": "{etat1.extra1.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{etat1.support1.16}"
+        "$value": "{etat1.extra1.16}"
       }
     },
-    "support2": {
+    "extra2": {
       "1": {
         "$type": "color",
-        "$value": "{etat1.support2.1}"
+        "$value": "{etat1.extra2.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{etat1.support2.2}"
+        "$value": "{etat1.extra2.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{etat1.support2.3}"
+        "$value": "{etat1.extra2.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{etat1.support2.4}"
+        "$value": "{etat1.extra2.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{etat1.support2.5}"
+        "$value": "{etat1.extra2.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{etat1.support2.6}"
+        "$value": "{etat1.extra2.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{etat1.support2.7}"
+        "$value": "{etat1.extra2.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{etat1.support2.8}"
+        "$value": "{etat1.extra2.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{etat1.support2.9}"
+        "$value": "{etat1.extra2.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{etat1.support2.10}"
+        "$value": "{etat1.extra2.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{etat1.support2.11}"
+        "$value": "{etat1.extra2.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{etat1.support2.12}"
+        "$value": "{etat1.extra2.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{etat1.support2.13}"
+        "$value": "{etat1.extra2.13}"
       },
       "14": {
         "$type": "color",
-        "$value": "{etat1.support2.14}"
+        "$value": "{etat1.extra2.14}"
       },
       "15": {
         "$type": "color",
-        "$value": "{etat1.support2.15}"
+        "$value": "{etat1.extra2.15}"
       },
       "16": {
         "$type": "color",
-        "$value": "{etat1.support2.16}"
+        "$value": "{etat1.extra2.16}"
       }
     }
   },
