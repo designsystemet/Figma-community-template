@@ -1,58 +1,40 @@
 {
     "$schema": "./node_modules/@digdir/designsystemet/dist/config.schema.json",
-    "outDir": "./internal/design-tokens",
+    "outDir": "./design-tokens",
     "clean": true,
     "themes": {
-        "digdir": {
+        "etat1": {
             "colors": {
                 "main": {
-                    "accent": "#0062BA"
+                    "primary": "#0062BA",
+                    "accent": "#1E98F5"
                 },
                 "support": {
-                    "brand1": "#F45F63",
-                    "brand2": "#E5AA20",
-                    "brand3": "#1E98F5"
+                    "extra1": "#F45F63",
+                    "extra2": "#E5AA20"
                 },
                 "neutral": "#1E2B3C"
+            },
+            "borderRadius": 4,
+            "typography": {
+                "fontFamily": "Inter"
             }
         },
-        "altinn": {
+        "etat2": {
             "colors": {
                 "main": {
-                    "accent": "#0062BA"
+                    "primary": "#2D6A4F",
+                    "accent": "#EADBC8"
                 },
                 "support": {
-                    "brand1": "#0162BA",
-                    "brand2": "#3F3161",
-                    "brand3": "#E02F4A"
+                    "extra1": "#76203F",
+                    "extra2": "#466D86"
                 },
                 "neutral": "#1E2B3C"
-            }
-        },
-        "uutilsynet": {
-            "colors": {
-                "main": {
-                    "accent": "#0062BA"
-                },
-                "support": {
-                    "brand1": "#5B60D1",
-                    "brand2": "#FEA769",
-                    "brand3": "#5DA290"
-                },
-                "neutral": "#1E2B3C"
-            }
-        },
-        "portal": {
-            "colors": {
-                "main": {
-                    "accent": "#4D107D"
-                },
-                "support": {
-                    "brand1": "#A259DC",
-                    "brand2": "#DF73E4",
-                    "brand3": "#E86ABF"
-                },
-                "neutral": "#1E2B3C"
+            },
+            "borderRadius": 9999,
+            "typography": {
+                "fontFamily": "Open Sans"
             }
         }
     }
