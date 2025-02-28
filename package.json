@@ -1,0 +1,22 @@
+{
+  "name": "figma-community-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "create": "designsystemet tokens create"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designsystemet/Figma-community-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designsystemet/Figma-community-template/issues"
+  },
+  "homepage": "https://github.com/designsystemet/Figma-community-template#readme",
+  "description": "",
+  "dependencies": {
+    "@digdir/designsystemet": "^0.0.0-next-20250228092532"
+  }
+}
