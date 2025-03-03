@@ -1,20 +1,22 @@
 {
   "etat1": {
-    "main": {
+    "font-family": {
       "$type": "fontFamilies",
-      "$value": "IBM Plex Mono"
+      "$value": "Inter"
     },
-    "bold": {
-      "$type": "fontWeights",
-      "$value": "Medium"
-    },
-    "extra-bold": {
-      "$type": "fontWeights",
-      "$value": "SemiBold"
-    },
-    "regular": {
-      "$type": "fontWeights",
-      "$value": "Regular"
+    "font-weight": {
+      "medium": {
+        "$type": "fontWeights",
+        "$value": "Medium"
+      },
+      "semibold": {
+        "$type": "fontWeights",
+        "$value": "SemiBold"
+      },
+      "regular": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      }
     }
   }
 }

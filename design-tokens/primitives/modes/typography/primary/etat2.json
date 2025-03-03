@@ -1,20 +1,22 @@
 {
   "etat2": {
-    "main": {
+    "font-family": {
       "$type": "fontFamilies",
       "$value": "Open Sans"
     },
-    "bold": {
-      "$type": "fontWeights",
-      "$value": "SemiBold"
-    },
-    "extra-bold": {
-      "$type": "fontWeights",
-      "$value": "Bold"
-    },
-    "regular": {
-      "$type": "fontWeights",
-      "$value": "Regular"
+    "font-weight": {
+      "medium": {
+        "$type": "fontWeights",
+        "$value": "Medium"
+      },
+      "semibold": {
+        "$type": "fontWeights",
+        "$value": "SemiBold"
+      },
+      "regular": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      }
     }
   }
 }
