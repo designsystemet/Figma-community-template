@@ -2,7 +2,7 @@
   "etat2": {
     "font-family": {
       "$type": "fontFamilies",
-      "$value": "Open Sans"
+      "$value": "IBM Plex Mono"
     },
     "font-weight": {
       "medium": {
