@@ -2,7 +2,7 @@
   "etat1": {
     "font-family": {
       "$type": "fontFamilies",
-      "$value": "Gill Sans"
+      "$value": "Inter"
     },
     "font-weight": {
       "medium": {
@@ -11,7 +11,7 @@
       },
       "semibold": {
         "$type": "fontWeights",
-        "$value": "Semi Bold"
+        "$value": "SemiBold"
       },
       "regular": {
         "$type": "fontWeights",
