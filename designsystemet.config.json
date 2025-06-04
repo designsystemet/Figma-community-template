@@ -6,12 +6,12 @@
         "etat1": {
             "colors": {
                 "main": {
-                    "accent": "#1E98F5"
+                    "accent": "#0062BA"
                 },
                 "support": {
                     "brand1": "#F45F63",
                     "brand2": "#E5AA20",
-                    "brand3": "#0062BA"
+                    "brand3": "#1E98F5"
                 },
                 "neutral": "#1E2B3C"
             },
@@ -23,12 +23,12 @@
         "etat2": {
             "colors": {
                 "main": {
-                    "accent": "#EADBC8"
+                    "accent": "#2D6A4F"
                 },
                 "support": {
                     "brand1": "#76203F",
                     "brand2": "#466D86",
-                    "brand3": "#2D6A4F"
+                    "brand3": "#EADBC8"
                 },
                 "neutral": "#1E2B3C"
             },
