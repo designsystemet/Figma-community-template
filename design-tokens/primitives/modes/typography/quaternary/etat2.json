@@ -1,8 +1,8 @@
 {
-  "etat1": {
+  "etat2": {
     "font-family": {
       "$type": "fontFamilies",
-      "$value": "Edu SA Beginner"
+      "$value": "Open Sans"
     },
     "font-weight": {
       "medium": {
@@ -11,7 +11,7 @@
       },
       "semibold": {
         "$type": "fontWeights",
-        "$value": "SemiBold"
+        "$value": "Semi bold"
       },
       "regular": {
         "$type": "fontWeights",

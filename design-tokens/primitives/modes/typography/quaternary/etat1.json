@@ -2,7 +2,7 @@
   "etat1": {
     "font-family": {
       "$type": "fontFamilies",
-      "$value": "Edu SA Beginner"
+      "$value": "Lora"
     },
     "font-weight": {
       "medium": {
