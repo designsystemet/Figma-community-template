@@ -83,7 +83,6 @@
   {
     "name": "Dark",
     "selectedTokenSets": {
-      "primitives/modes/color-scheme/dark/global": "enabled",
       "primitives/modes/color-scheme/dark/etat1": "enabled",
       "primitives/modes/color-scheme/dark/etat2": "enabled"
     },
@@ -95,7 +94,6 @@
   {
     "name": "Light",
     "selectedTokenSets": {
-      "primitives/modes/color-scheme/light/global": "enabled",
       "primitives/modes/color-scheme/light/etat1": "enabled",
       "primitives/modes/color-scheme/light/etat2": "enabled"
     },
