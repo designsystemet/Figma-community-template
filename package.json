@@ -17,6 +17,6 @@
   "homepage": "https://github.com/designsystemet/Figma-community-template#readme",
   "description": "",
   "dependencies": {
-    "@digdir/designsystemet": "^1.8.0"
+    "@digdir/designsystemet": "1.8.0"
   }
 }
