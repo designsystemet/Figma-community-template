@@ -3,7 +3,7 @@
     "outDir": "./design-tokens",
     "clean": true,
     "themes": {
-        "etat1": {
+        "starter-theme": {
             "colors": {
                 "main": {
                     "accent": "#0062BA"
@@ -17,22 +17,6 @@
             "borderRadius": 4,
             "typography": {
                 "fontFamily": "Inter"
-            }
-        },
-        "etat2": {
-            "colors": {
-                "main": {
-                    "accent": "#2D6A4F"
-                },
-                "support": {
-                    "brand1": "#76203F",
-                    "brand2": "#466D86"
-                },
-                "neutral": "#1E2B3C"
-            },
-            "borderRadius": 9999,
-            "typography": {
-                "fontFamily": "Open Sans"
             }
         }
     }

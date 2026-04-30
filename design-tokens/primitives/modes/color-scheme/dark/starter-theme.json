@@ -1,5 +1,5 @@
 {
-  "etat1": {
+  "starter-theme": {
     "accent": {
       "1": {
         "$type": "color",
@@ -532,6 +532,16 @@
       "visited": {
         "$type": "color",
         "$value": "#b49acd"
+      }
+    },
+    "focus": {
+      "inner": {
+        "$type": "color",
+        "$value": "#17181a"
+      },
+      "outer": {
+        "$type": "color",
+        "$value": "#ececec"
       }
     }
   }
